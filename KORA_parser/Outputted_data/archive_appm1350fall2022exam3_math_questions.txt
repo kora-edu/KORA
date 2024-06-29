@@ -1,0 +1,17 @@
+Here are the math questions I found in your provided text:
+
+1. (a) Evaluate  ∫ t2 + 2/t1/3 
+   (b) Evaluate  ∫ π2/ π2/4 cos (√x)/√x 
+   (c) Suppose ∫ r(x) dx from 2 to 0 = 6, ∫ r(x) dx from 0 to -1= 5, and r(x) is an odd function. Use this information to evaluate ∫ r(x) from -1 to -2. 
+   (d) Evaluate the following sum: ∑ [(2 + i) / (3n)]^(3/n) from i=1 to n. 
+
+2. Suppose Newton’s Method is applied to the function h(x), shown below, starting with an initial approximation of x. (a) Match the first three approximations x1, x2, and x3 to the x-coordinates a, b, c, d, e, f, or g. Enter your answers in the table. (b) Assume that if Newton’s Method continues, it will converge. To what value will it converge?
+
+3. (a) Find the average value of f over [0, 8]. (Express your answer in terms of π.)
+   (b) Approximate ∫f(x) dx from 2 to 6 using four rectangles of equal width with the right endpoint. 
+   (c) Let g(x) = ∫f(t) dt from 0 to x. Find the x-coordinates of all inflection points of g(x). 
+
+4. Using the grid below, sketch the graph of a single function, y = s(x) with each of the following characteristics.
+
+5. (a) A particle has acceleration given by a(t) = 4t −10 meters per second squared at t. It has a velocity of 4 meters per second at t = 1. Given this, at what time(s) is the particle at rest?
+   (b) The rectangle shown has one side on the positive x-axis, one side on the positive y-axis, and its upper right corner on the curve y = 1/(1 + 2x2 ). What dimensions give the rectangle its largest area?

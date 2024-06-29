@@ -1,0 +1,8 @@
+1. Find the derivative of g(x) = sin(x2 + x) / (3x -1)
+2. Let f(x) = √(4 −x). State the limit definition of the derivative for this function f(x). Find f′(x) by using the definition of the derivative.
+3. If f′(x) = lim (h→0) (sin(x + h) - sin(x)) / h, find f′(π/3).
+4. The side length h of a square is measured as 3 cm, with a maximum error of 1 cm. Use differentials to estimate the maximum error for the area of the square and the relative error for the area of the square.
+5. You are flying a kite which has a constant height of 4 meters above the ground. The wind is carrying the kite horizontally away from you, and you have to let out string at a rate of 2 meters/sec. What is the horizontal speed of the kite when you have let out 5 meters of string?
+6. Consider the function s(x) = −x3 + 3x. Find the critical numbers of s(x). Use the first derivative test to determine the points where s(x) has a local maximum or local minimum. Find the absolute maximum and minimum values for the function s(x) on the interval [0, 2].
+7. Suppose that y is defined implicitly as a function of x from the equation cos(πy) = 1 / (2x + y cos(πx)). Find the derivative dy/dx.
+8. Consider the function f(x) = 1 / x on the interval [2, 4]. State the Mean Value Theorem and verify that f(x) satisfies the hypotheses on the given interval. Find all numbers c that satisfy the conclusion of the Mean Value Theorem for f(x) on the interval [2, 4].

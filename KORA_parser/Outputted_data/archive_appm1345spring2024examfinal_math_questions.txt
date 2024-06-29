@@ -1,0 +1,37 @@
+Sure, here are the math questions extracted from the text:
+
+1. (28 points) The following problems are not related: 
+   (a) Find the general antiderivative of g(x) = e^√x . 
+   (b) Use logarithmic differentiation to find the derivative of y = (x^4 + 1)^(√x).
+   (c) Find the derivative of f(x) = ∫^(cos(x))_0 (1 + t^3)^(2/3) dt.
+
+2. (26 points) The following problems are not related: 
+   (a) Find the derivative of f(x) = ln(tan^−1(x)).
+   (b) Evaluate the definite integral ∫^(ln(3))_0 (sinh(x)/cosh(x)) dx, and fully simplify your answer. 
+   (c) Determine the value of the limit lim_(x→0+) (x^2 ln(x^2)).
+
+3. (16 points) Find the area of the largest rectangle which is symmetric around the y-axis, bounded below by the x-axis, and which has two corners touching the graph of f(x) = 1/(1 + x^2).
+
+4. (18 points) A bug flying in a straight line starts decelerating at time t = 0 at a constant rate of 1 ft/s^2 for 5 seconds. 
+   (a) Find the bug’s velocity as a function of time, given that its velocity at t = 0 is 2 ft/s. 
+   (b) What is the bug’s displacement over the time interval 0 ≤t ≤5?
+   (c) The bug changes direction at least once during the 5 seconds. What is the total distance the bug travels over the time interval 0 ≤t ≤5?
+
+5. (12 points) For what value of a is the following function continuous?
+   f(x) = {
+     2x^2 −x + a if x ≤0,
+     x^2 * sin(x) if x > 0.
+
+6. (18 points) Consider the function g(x) = arctan(x) + 1/(x^2 −4) 
+   (a) Find the domain of the function, and give your answer in interval notation. 
+   (b) Find all horizontal asymptotes of g(x), and justify your answer with a proof.
+
+7. (16 points) The half-life of the chemical element cobalt-56 is approximately 77 days. 
+   (a) Find a formula for the mass of cobalt-56 remaining after t days.
+   (b) How long will it take for only 1 milligram of cobalt-56 to remain in the sample? 
+
+8. (16 points) For each of the following questions, give a short justification for your answer. 
+   (a) If f(x) is an odd function and ∫^(-3)_0 f(x) dx = π + 1, find ∫^3_-3 f(x) dx. 
+   (b) Find the absolute minimum of the function f(x) = x · 2^x, if it exists. 
+   (c) Evaluate the limit lim_(h→0) [arctan(3x + 3h) −arctan(3x)]/h.
+   (d) Suppose that f(x) is differentiable everywhere, with f(−1) = 1 and f(1) = 2. Is there some value c such that f′(c) = 1?

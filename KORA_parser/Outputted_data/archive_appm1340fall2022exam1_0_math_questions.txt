@@ -1,0 +1,23 @@
+Here are the math problems extracted from the text:
+
+1. (28 pts) 
+    (a) Express the following as a polynomial: (√x −3 + 2)(√x −3 −2)
+    (b) Fully simplify: √a2b7 / 2 
+    (c) Fully simplify: 1 / (x+h) −1 / x / h 
+    (d) Solve: x7/3 −15x1/3 = 2x4/3
+
+2. (22 pts) For the following, let point A be (2, 1) and let point B be (−6, 7):
+    (a) Find the distance between points A and B. 
+    (b) Find a point-slope equation of the line passing through points A and B. 
+    (c) Find the midpoint of the line segment connecting points A and B. 
+    (d) Find the equation of the line that is perpendicular to the line in part (b) and passes through point B.
+
+3. (22 pts) 
+    (a) If θ is on the interval hπ / 2 , π i and tan θ = −5 / 2, find the value of csc θ.
+    (b) Evaluate cos (3π / 4). 
+    (c) The height of a building is known to be 555 feet. A person standing a certain distance away measures the angle from their feet to the top of the building to be 60◦. How far away is the person from the building? Express your answer in exact form and include the proper unit of measurement.
+
+4. (28 pts)
+    (a) Find all values of x in the interval [0, 2π] that satisfy the equation sin(2x) = cos x. 
+    (b) What is the radius of a circular sector having a central angle of 40◦and an area of 4π?
+    (c) Is the function f(x) = x7 + 3x3 −1 odd, even, or neither? Justify your answer by using the definition of odd and/or even function.

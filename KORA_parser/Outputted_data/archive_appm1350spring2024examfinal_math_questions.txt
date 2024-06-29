@@ -1,0 +1,25 @@
+Sure, here are the math questions extracted from the text:
+
+1. Find the general antiderivative of g(x) = e√x.
+2. Use logarithmic differentiation to find the derivative of y = (x4 + 1).
+3. Find the derivative of f(x) = ∫cos(x) / 1 + t^3  dt.
+4. Find the derivative of f(x) = ln tan^−1(x).
+5. Evaluate the definite integral of ∫sinh(x) cosh(x) dx from 0 to ln(3).
+6. Determine the value of the limit lim x→0+ x2 ln(x2).
+7. Find the area of the largest rectangle which is symmetric around the y-axis, bounded below by the x-axis, and which has two corners touching the graph of f(x) = 1 / 1 + x^2.
+8. Considering a bug flying in a straight line starts decelerating at time t = 0 at a constant rate of 1 ft/s^2 for 5 seconds, answer the following: 
+   - Find the bug’s velocity as a function of time, given that its velocity at t = 0 is 2 ft/s. 
+   - What is the bug’s displacement over the time interval 0 ≤ t ≤ 5 seconds?
+   - What is the total distance the bug travels over the time interval 0 ≤ t ≤ 5 seconds?
+9. For what value of a is the following function continuous? f(x) = 2x^2 -x + a for x ≤0 and f(x) = sin(x) for x > 0.
+10. Considering the function g(x) = arctan(x) + 1 / x^2 -4, answer the following: 
+    - Find the domain of the function, and give your answer in interval notation.
+    - Find all horizontal asymptotes of g(x).
+11. The half-life of the chemical element cobalt-56 is approximately 77 days. 
+    - Find a formula for the mass of cobalt-56 remaining after t days.
+    - How long will it take for only 1 milligram of cobalt-56 to remain in the sample?
+12. For each of the following questions, give a short justification for your answer: 
+    - If f(x) is an odd function and ∫ f(x) dx from -3 to 0 = π + 1, find ∫ f(x) dx from -3 to 3. 
+    - Find the absolute minimum of the function f(x) = x . 2^x, if it exists.
+    - Evaluate the limit lim h→0 [arctan(3x + 3h) −arctan(3x)] / h.
+    - Suppose that f(x) is differentiable everywhere, with f(−1) = 1 and f(1) = 3. Is there some value c such that f′(c) = 1?

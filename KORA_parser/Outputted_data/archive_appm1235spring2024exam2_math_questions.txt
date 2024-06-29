@@ -1,0 +1,26 @@
+1. Find the domain of f(x). Express your answer in interval notation
+2. Find the range of f(x). Express your answer in interval notation
+3. Find (f + f)(−2)
+4. Find (f ◦f)(3)
+5. Find |f(−4)|
+6. Solve f(x) = −3
+7. Find x-values for which f(x) ≤−1
+8. Find the net change of f(x) from x = 0 to x = 3
+9. Is f(x) one-to-one? Briefly justify your answer
+10. Find the domain of the following functions: (a) f(x) = √(x2 −x −12), (b) g(x) = x2 + √(3 −x), (c) h(x) = (x −1)/(√9 −x)
+11. Find (f ◦g)(x) for f(x) = √x and g(x) = x2 + 1
+12. Find the domain of (f ◦g)(x) for f(x) = √x and g(x) = x2 + 1
+13. Find the equation of a parabola which has vertex at (−2, 5) and passes through the point (0, 7)
+14. Write the equation of a straight line that is perpendicular to the line y = 1/3x + 96 and passes thru the point(1, −4)
+15. Find the equation of the line that is parallel to the x-axis and passes through the point (−2, 5)
+16. Find the equation of a function that is symmetric about the origin with domain (−∞, ∞) and pass through point (3, 5)
+17. At what time is the stone at its maximum height?
+18. What is the maximum height of the stone, measured from the ground?
+19. What is the radius of the circle?
+20. Where is the center of the circle?
+21. Using the above, write down the equation of the circle in standard form
+22. Find the inverse of the function f(x) = 1/(2x3 + 7)
+23. Find A−1(30) for graph of the balance A(t) in dollars, as a function of time t
+24. For f(x) = −x + 5 find the following: (a) f(a), (b) f(a + h), (c) f(a + h) −f(a)/h
+25. Sketch a graph that satisfies all of the given properties of a polynomial, P(x)
+26. Find an equation of a polynomial P(x) that satisfies all of the given requirements.

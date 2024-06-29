@@ -1,0 +1,10 @@
+1. (30 pts) The following problems are (a) Find the tangent line of y = x/(x + 1) at x = ? (b) Find the derivative of p(x) = sin^2(x) + sec (x^3). (c) Find dy/dx at (0, 1) when (x −y)^5 = (x −1)y^2.
+
+2. (22 pts) The following problems are (a) Consider r(x) = tan(x). (i) Determine the linearization of r(x) at x = π/4. (ii) Use your answer from (i) to approximate tan(1). (iii) Is your approximation from (ii) an overestimate or an underestimate? Explain your reasoning. (b) Suppose f is a function where the following are all true: • f′(x) = x^2/(1 + 2f(x)), • f(1) = 2, and • f′(x) is differentiable at x = ?. Using this information, determine f′′(1).
+
+3. (28 pts) The following problems are (a) Use the definition of the derivative to show that the derivative of g(x) = 5x^2 −4x is g′(x) = 10x - ? (b) Consider s(x) = (x −3)^(-?). Show there is no value c in (0, 6) such that s′(c) = s(6) −s(0)/6 . Why does this not contradict the Mean Value Theorem? (c) Consider r(x) = x(x + 8)^(1/3). Determine all critical numbers of r(x).
+
+4. (20 pts) The following problems are (a) A gloopy is an intelligent species that lives on the planet. A gloopy’s volume, V , is always the product of their wingspan squared, W^2, and their foot length, F: V = W^2*F. Additionally, a gloopy’s foot length grows at a constant rate of 2 cm/year, and their wingspan grows at half that rate. How quickly is the volume of a gloopy increasing if its current foot length is 6 cm and its wingspan is 20 cm? (b) Graphed below are y = f(x), y = f′(x), and y = f′′(x). Match each of these to the correct label of A, B, or C. Place your answer in the table:
+y = f(x), 
+y = f′(x), 
+y = f′′(x).

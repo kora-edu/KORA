@@ -1,0 +1,27 @@
+1) Determine all solutions of sin2(x) = sin(2x) −sin(x) cos(x) in [0, 2π).
+
+2) If θ is in [π/2, π] and tan(θ) = −5/8, evaluate
+sin(θ)
+cos(2θ)
+
+3) Evaluate the following limits and simplify your If a limit does not exist, clearly state If
+you use a theorem, clearly state its name and show that its hypotheses are :
+(a) lim x→−2 |x2 + 5x + 6| / (x + 2)
+(b) If 4x3 −6x2 ≤f(x) ≤x4 −4x + 1 for all x, evaluate lim x→1 f(x).
+(c) lim y→π/4 (1 −tan y) / (sin y −cos y)
+
+4) Questions about the function s(x):
+(a) What is the domain of r(x) = 1/s(x)? State your answer using intervals. 
+(b) On what interval(s) is r(x) = 1/s(x) continuous? State your answer using intervals. 
+(c) What is the domain of v(x) = √s(x)? State your answer using intervals. 
+(d) Provide a complete formula for s(x) as a piecewise-defined function.
+
+5) Questions about the function g(x) = sin x / x(x −π/2) :
+(a) Identify all values of x, if any, for which g(x) has a vertical asymptote. Justify your answer by evaluating the appropriate limit(s).
+(b) For what value(s) of a is the function h(x) continuous at x = 0? Justify your answer using the definition of h(x) = (g(x), x ̸= 0, π/2; a, x = 0).
+
+6) Questions about the function P(t) = (3t3 −9t) / √(4t6 + 5t4 + 5t): 
+(a) How many weeks after it is released does the movie studio “break even” on the movie? That is, when does P(t) = 0 for a realistic value of t? 
+(b) How much profit does the movie studio make in the long run? In other words, what is limt→∞P(t)? 
+
+7) Correctly use a theorem to determine a closed interval in which x + tan x = 1 has a solution. Be sure to state the name of the theorem that is used and to clearly show that its hypotheses are met.

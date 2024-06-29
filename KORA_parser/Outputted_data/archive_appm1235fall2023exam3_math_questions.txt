@@ -1,0 +1,63 @@
+1. Sketch the shape of the graph of a rational function, g(x), that satisﬁes all of the given Label all intercepts and asymptotes on the graph. The graph has a slant asymptote: y = x + 3. The graph bounces (touches but does not cross) at x-intercept: (−2, 0). The graph has no other x-intercepts. The graph has a vertical asymptote: x = −x.
+
+2. Consider the graph of a rational function Write down a rational function, R(x), whose graph has the same vertical asymptote, horizontal asymptote, hole (as labeled), and x-intercept as that of the given function.
+
+3. Simplify (rewrite without logs or exponents): −log3(27) + log(1) + ln(e2) + 100.
+
+4. Rewrite as a single logarithm: 4 log(x) −1/2 log(y) + log(z).
+
+5. For parts (a) and (b) sketch the function. Be sure to label any asymptote(s) and intercept(s) for each function.
+
+    (a) f(x) = ln(x −1)
+    (b) g(x) = −3x
+
+6. For the function from part (b) ﬁnd the value: g(3 log3 2)
+
+7. Solve the following equations for x. If there are no solutions write “no solutions”.
+
+    (a) 10x2−1 = 107−7x
+    (b) 8 = 2−3x−1
+   
+8. Solve the following equations for x. If there are no solutions write “no solutions”.
+
+    (a) 2x = (x −5) ln(3)
+    (b) log3(2x −4) −log3(2) = log3(7/2x + 1)
+
+9. Simplify the expression: (72x)^3 + 7^−x * (7x + 7^−2x).
+
+10. The half-life of cobalt-60 is known to be 5 years. A scientist has a 12 mg (milligram) sample of cobalt-60.
+
+    (a) How much of the 12 mg sample of cobalt-60 will remain after 10 years?
+    (b) Find a function m(t) = m◦2−t/h that models the mass remaining after t years.
+    (c) According to the model, how long will it take until 17% of the initial sample remains?
+
+11. Determine whether the following two angles are coterminal or not. Make sure to justify your answer to receive credit: 34π/3 , 20π/3.
+
+12. The point, (x, y), lies on the unit circle x2 + y2 = 1 in quadrant III. If x = √2/7 find y.
+
+13. For an angle θ in standard position, suppose we know cos(θ) < 0 and sin(θ) = −1. What quadrant does the terminal side of θ lie?
+
+14. Simplify: 11 sin2 (π/9) + 11 cos2 (π/9).
+
+15. Sketch each angle in standard position on the unit circle.
+
+    (a) θ = 5π/3 
+    (b) θ = −3π/4
+
+16. Answer the following for tan(θ) = 2/7 where θ lies in quadrant I.
+
+    (a) Sketch a triangle that represents the given information.
+    (b) Find cot θ 
+    (c) Find sin θ
+
+17. Find the exact value of each of the following. If a value does not exist write "none".
+
+    (a) cos (−150◦)
+    (b) sin (π/2)
+    (c) tan (π/6)
+    (d) csc (7π/6)
+    (e) sec (3π/4)
+
+18. A company is designing a new corporate graphic and they have decided to take two circular sectors (one with central angle 60◦ and the other with central angle 90◦) from inside a circle that has a radius of 3 inches and reorient them into the new graphic. Find the area of the graphic in image 2.
+
+19. A 13 ft ladder is leaning against a vertical wall such that a triangle is formed between the ground, ladder, and wall. The angle the ladder makes with the wall is 60◦. Find the height of the wall.

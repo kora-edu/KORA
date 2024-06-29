@@ -1,0 +1,44 @@
+Sure, here are the mathematical questions extracted from the above text:
+
+1. Sketch the following graphs: Be sure to label any asymptotes and intercepts for each 
+   (a) f(x) = −log7(x) 
+   (b) g(x) = ex + 1
+   (c) For f(x) given in part (a) ﬁnd f' (72x)
+
+2. Simplify the following:
+   (a) Simplify (rewrite without logs): ln(1) −e2 ln(5) + log5(125) 
+   (b) Rewrite as a single logarithm without negative exponents: −4 log3(x) + log3(y) −7 log3(z)
+   (c) Rewrite as a sum/difference of logarithms without any exponents: log (√xy/z)
+
+3. Solve the following equations for x:
+   (a) logx(32) = 2 
+   (b) ex2−1 = e6(x+1)
+   (c) 2x+1 = 4x−1 
+   (d) 2 = log3(2x −21) −log3(x) 
+   (e) 8 + 3x = x ln(8) −2
+
+4. The velocity of a sky diver t seconds after jumping is modeled by v(t) = 70 (1 −e−3t ). After how many seconds is the velocity 7 ft/s? 
+
+5. Sketch each angle in standard position on the unit circle:
+   (a) −7π/6 
+   (b) 5π/4
+
+6. The point (−2, −3) is on the terminal side of an angle, θ, in standard position. Determine the exact values of the 
+   (a) cos θ 
+   (b) sec θ 
+   (c) tan θ 
+
+7. The length of the arc of the sector of a circle with a central angle of 20◦is 4. Find the radius of the circle.
+
+8. Simplify the following:
+   (a) 2 cos2 (8◦) + 2 sin2 (8◦) 
+   (b) For a particular angle θ in standard position suppose we know tan θ < 0 and cos θ > 0. What quadrant is θ in?
+
+9. Find the following. If a value does not exist, write N/A:
+   (a) tan (0◦)
+   (b) sin (7π/6)
+   (c) cos (2π/3)
+   (d) cot (−45◦)
+   (e) sec (π/6)
+
+10. A mountain stands in the distance 10,040 feet high. You measure the angle from your feet to the top of the mountain to be 60◦. How far away is the base of the mountain?

@@ -1,0 +1,35 @@
+Here are the mathematical questions extracted from the provided text:
+
+1. Simplify and evaluate √24 + 1/2 - 5 and 6 - 8/3/2.
+2. Simplify −(x^2 −1)/2 - (−x^3)/2(x−3/x).
+3. Multiply and simplify: (x^2 + x + 1)/(x^3 −16x) · (x −4)/(x^3 −1).
+4. Simplify: √x/(√x −x^2/3) + 1/(x−1/9)^3.
+5. Simplify: 3/(x^2 + 3/x) and 1/(x + 1).
+6. Simplify: log4(64) - log5(53) + log4(32) - log4(2) + log(1).
+7. Solve: x^3 −x^2 + x = 0.
+8. Solve the following equations for:
+    a) Solve for n: 3/(n + 1) = 1/2n.
+    b) Solve for r: U - U◦ = kq1q2/r^2.
+    c) Solve for x: 3 + 2 log4(x) = 1.
+    d) Solve for t: 7e^−2t = 12.
+9. For the two points P(−3, 1) and Q(−1, 4):
+    a) Find the slope of the line through the two.
+    b) Find the equation of the line that passes through the points P and Q.
+    c) Find the equation of the circle centered at Q that passes through P.
+10. Consider the functions: m(x) = √x −3, r(x) = x^2 −2, and q(x) = e^2.
+    a) Find the domain of m(x).
+    b) Find (r ◦m) (x).
+    c) Find the domain of (r ◦m) (x).
+    d) Find q(ln (2)).
+11. For P(x) = x^4 −x^3 −6x^2:
+    a) Find the x-intercept(s).
+    b) Find the y-intercepts.
+    c) Indicate the end behavior of P(x).
+    d) Graph P(x).
+12. Sketch the graph of the rational function, y = R(x), given certain properties.
+13. Sketch the graph of the listed functions.
+14. Find the exact value for sine, cosine and arctan of various angles.
+15. Verify the identity: sec(θ) cos^2(θ) + sin(θ) tan(θ) /sec(θ).
+16. Is the function f(x) = sin^2(x) cos(x) odd, even, or neither?
+17. Solve: sin(θ) −tan(θ) sin(θ) = 0 and cos(θ/3) = 1/2.
+18. For f(x) = 2 sin(x −π/3), identify amplitude, period, phase shift and sketch the graph.

@@ -1,0 +1,52 @@
+1. For R(x) = x^2 −4 /x^3 + 10x^2 + 16x
+  (a) Find the location (x, y -coordinates) of any hole(s). If there are none state 
+  (b) Find any horizontal or slant asymptote(s). If there are none state 
+  (c) Find any vertical asymptote(s). If there are none state 
+  
+2. Sketch the following graphs: 
+  (a) f(x) = 2x −1 
+  (b) g(x) = ln(−x)
+
+3. Simplify (rewrite without logs): ln(1) −log2(16) + log8(4) + log8 (2) + 23 log2(4)
+
+4. Rewrite as the sum/difference of logarithms without exponents: ln [e^3 * √(a^2/b)]
+
+5. Solve the following equations for If there are no solutions write “no solutions”:
+  (a) log(x + 2) = log(3 −2x) 
+  (b) 3x^2−1 = 9 
+
+6. Solve the following equations for If there are no solutions write “no solutions”:
+  (a) log(2x) = log [1/(3x −2)] + log(3) 
+  (b) log_2(5)x = x −1 
+
+7. Simplify the expression: (e^x - e^-x) / (e^x + e^-x) - (e^x)^2 
+
+8. The temperature of a cup of coffee in a room is modeled to cool according to the temperature model T(t) = 110e^−08t + 75 where T is the temperature of the coffee in degrees Fahrenheit and t is the time in (a) What is the initial temperature of the coffee? 
+  (b) What is the temperature of the coffee after 100 minutes (do not attempt to approximate the value with decimals)?
+  (c) According to the model, what is the temperature of the room?
+
+9. Sketch each angle in standard position on the unit Circle 
+  (a) θ = 5π/4 
+  (b) θ = −π/3 
+
+10. If y = √3/5 and it lies on the unit circle x^2 + y^2 = 1 in quadrant 1 find x?
+
+11. For an angle θ in standard position, suppose we know cos(θ) < 0 and sin(θ) < 0. What quadrant does the terminal side of θ lie?
+
+12. Find two angles that are co-terminal with θ = 160◦.
+
+13. Answer the following for sin(θ) = 2/3 where θ lies in the interval [ 0, π/2 ].
+  (a) Sketch a triangle that has acute angle θ and use the given information to help find the lengths of all three sides
+  (b) Find tan θ 
+  (c) Find csc θ 
+
+14. Find the exact value of each of the 
+  (a) cos(3π/4)
+  (b) sin (120◦) 
+  (c) tan (0) 
+  (d) cot(π/4)
+  (e) sec(−π/3)
+
+15. Given that r = 3 and θ = 140◦. Find the length s of the circular arc as shown in the question. 
+
+16. The angle of elevation to the top of a very tall building is found to be 30◦from the ground at a distance of 8 mile from the base of the building. Find the height of the building (do not attempt to approximate your answer as a decimal).

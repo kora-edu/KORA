@@ -1,0 +1,35 @@
+1. A plane ﬂying horizontally at an altitude of 1mi and a speed of 500mi/h passes directly over a radar. Find the rate at which the distance from the plane to the station is increasing when it is 2mi away from the station. 
+
+2. Write down the information that is given in this problem (use the notation established in the diagram below).
+
+3. Write down what you are trying to ﬁnd in this problem.
+
+4. Solve the problem. Simplify your answer.
+
+5. Find the equation of the tangent line to y = √x at the point (1, 1). Simplify your answer.
+
+6. Which choice below is the correct derivative of f(x) = x² −2x + 1? 
+
+7. Suppose r represents the radius of a circular plate. If A(r) = πr² ﬁnd dA, the diﬀerential of A.
+
+8. Suppose the radius of the circle was originally found to be 10 cm but expands to 2 cm, use diﬀerentials to estimate the change in the area, ∆A.
+
+9. Find the absolute minimum and absolute maximum values of f(x) = (x² −1)³ on the interval [−1, 2]. Give your answer in the form (x, y). 
+
+10. Use the Squeeze Theorem to evaluate the following limit: lim x→0⁺ √x cos²(1/x).
+
+11. Suppose y = f(x), use implicit diﬀerentiation to ﬁnd y′ if y cos(x) = x² + y.
+
+12. Suppose g(x) = x² + x if x < 0, 1 −cos(x) if x = 0, and sin(x) if x > 0. Find the lim x→0 g(x). Show that g(x) is continuous at x = 0.
+
+13. Write down the piecewise deﬁnition of the function f(x) = 1 + |x² −4|. Find the derivative of f(x) = 1 + |x² −4|.
+
+14. The function h(x) = (3x + 1) / √(5 + 8x³) has a horizontal asymptote at which choice below?
+
+15. The Mean Value Theorem applies to h(x) = −1/x on [−3, −1⁄2] and the value of c ∈(−3, −1⁄2) that satisfies the Mean Value Theorem is c = −2. True or false?
+
+16. Suppose f(x) is continuous for all x, then f(x) is diﬀerentiable at x=a if lim x→a [f(x) −f(a)] / (x −a). True or false?
+
+17. Suppose the position function of a particle (at time t ≥0 in seconds) is given by s(t) = t² −t meters, then the total distance traveled during the time period 0 ≤t ≤1 by the particle is 5. True or false?
+
+18. The function f(x) = (x −2) / (x³ −2x²) has a vertical asymptote at x = 0 and a jump discontinuity at x = 2. True or false?
