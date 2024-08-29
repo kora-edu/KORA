@@ -1,0 +1,12 @@
+Here are the math problems extracted from the text:
+
+1. A 6-meter ramp forms an angle of θ with the ground, 0 < θ < π/2. The ramp has a horizontal width of w meters and a vertical height of h meters. If csc θ = 6, what is the value of w? For what value(s) of θ will w = h/√3?
+2. Find all values of θ in −π/2 , π/2 that satisfy sec θ tan θ = 2 sin θ.
+3. A cyclist covered 12 miles in 30 minutes, traveling at a constant speed. Over the next 20 minutes, the cyclist traveled at a slower constant rate and covered 6 miles. Write a formula for d(t), the distance in miles traveled by the cyclist as a function of time t in minutes, 0 ≤ t ≤ 50. Find the cyclist’s average speed (in miles per minute) over the interval t = 20 to 40.
+4. The graph shows lim x→4 (2/k −x) = 2 for some constant k with ϵ = 1. Find the values of k, r, s, b, c, and a corresponding δ.
+5. Evaluate the following limits and simplify your answers:
+   a. lim (u→13) of [(u −13) / (√u − √13)]
+   b. lim (θ→0) of [7θ cot(3θ) / sec(5θ)]
+   c. lim (x→-3) of [(3 −|x|) / (9 −x^2)]
+6. Let f(x) = (5x + 15)/(x^2 −4x +32). Determine all values of x at which f(x) is differentiable. For each value, identify the type of discontinuity. Justify using appropriate criteria.
+7. Prove that P(x) = 3x^3 −4x^2 −3x + 1 has at least two real roots between x = 0 and x = 2.

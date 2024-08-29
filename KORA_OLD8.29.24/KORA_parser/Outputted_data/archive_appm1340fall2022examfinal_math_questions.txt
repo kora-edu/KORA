@@ -1,0 +1,13 @@
+1. The position function of a particle is given by s(t) = −10t2 + 40t + 50 on the interval [0, 5], where t is measured in seconds and s is measured in meters. (a) Find all critical numbers of s(t) on the given interval and the corresponding function values. Identify the absolute maximum and minimum values of s(t) on the given interval and the corresponding values of t at which they occur. (b) Determine the particle’s velocity and acceleration at t = 3. Include the correct units of measure. (c) Determine the total distance traveled by the particle between t = 0 and t = 5. Include the correct unit of measure.
+  
+2.  Find the equations of the tangent and normal lines to the curve 5y + sin y + 1 = x2 at the point (−1, 0). Evaluate d/dx[x tan4 x].
+
+3.  A 10-foot ladder is initially resting against a vertical wall. Suppose the bottom of the ladder slides away from the wall at a constant rate of 2 feet per second. Determine the values of the following quantities when the top of the ladder is 6 feet above the floor: (a) The speed at which the top of the ladder is sliding down the wall. (b) The rate at which the angle between the ladder and the floor is decreasing.
+
+4. The side of a cube is measured to be 2 cm with a possible error in measurement of up to 1 cm. (a) Identify the function V(x) representing the volume of the cube, where x represents the length of a side. (b) Find the linear approximation of V(x) about x = 2. (c) Use differentials to estimate the maximum possible error in computing the volume of the cube. Include the correct units of measure.
+
+5. Verify that the hypotheses of the Mean Value Theorem are satisfied for g(x) = x + 1/x on the interval [2, 3] and find all numbers c that satisfy the conclusion of the theorem.
+
+6. Determine f′(x) for the function f(x) = 1/x by using the definition of the derivative. (b) Consider the rational function r(x) = (5x2 −5x −10)/(3x2 + 3x −6). Find the (x,y) coordinates of every removable discontinuity of r(x), if any. Support your answer by evaluating the appropriate limit.
+
+7. Find the equation of every vertical asymptote of y = r(x), if any. Support your answer by evaluating the appropriate limit. Find the equation of every horizontal asymptote of y = r(x), if any. Support your answer by evaluating the appropriate limit.

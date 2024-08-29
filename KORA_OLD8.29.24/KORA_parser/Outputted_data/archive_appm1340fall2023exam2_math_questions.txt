@@ -1,0 +1,9 @@
+Here are the math questions extracted from the text:
+
+1. (20 pts) Parts (a) and (b) are not (a) For f(x) = 1/(x −1) and g(x) = √(2 −x), identify the composite function (f ◦g)(x) and its domain. Express the domain in interval form. (b) The graphs below depict the functions y = p(x) and y = q(x), where q is a transformation of p of the form q(x) = ap(bx). Find the values of a and b.
+
+2. (30 pts) Evaluate the following. Support your answers by stating theorems, definitions, or other key properties: (a) lim x→0 [sin (5x) / (x² + 2x)], (b) lim x→2 [√(x + 1) − √(3 / (x² + x - 6))], (c) lim x→0 [x⁴ cos (1 / 2x)].
+
+3. (30 pts) Consider the rational function r(x) = (−3x² + 21x + 30) / (x² + 2x -15). (a) Identify all values of x at which r(x) is discontinuous. At each such x value, explain why the function is discontinuous. (b) Identify the type of discontinuity associated with each x value identified in part (a). Support those classifications by evaluating the appropriate limits. (c) Find the equation of each vertical asymptote of y = r(x), if any. Support your answer in terms of your work in part (b). (d) Find the equation of each horizontal asymptote of y = r(x), if any. Support your answer by evaluating the appropriate limits.
+
+4. (20 pts) Parts (a) and (b) are not linked. (a) For what value of a is the following function u(x) continuous at x = 4? Support your answer using the definition of continuity, which includes evaluating the appropriate limits. u(x) = { (x - 4) / (x² -16), x < 4; 1 / (a - x), x ≥ 4. (b) Use the Intermediate Value Theorem to establish that the equation v(x) = x -2 cos x = 0 has at least one solution on the interval (0, π/3). Verify that all conditions for applying the IVT to this particular problem are satisfied prior to using it.

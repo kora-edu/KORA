@@ -1,0 +1,22 @@
+The math questions from the text are:
+
+1. Compute the derivatives for each of the following functions:
+   a) y = x3 −2x + 1
+   b) y = (2 −tan(3x −1))4 
+
+2. Given the curve x√y = x −y + 5:
+   a) Find the derivative dy/dx in terms of x and y. 
+   b) Find the tangent line to the above curve at the point (1, 4).
+      
+3. Gravel is being dumped from a conveyor belt at a rate of 10 cubic feet per It forms a pile in the shape of a right circular cone whose base diameter and height are always How fast is the height of the pile increasing when the pile is 18 feet high? 
+
+4. (a) Spherical ball bearings are manufactured to have a diameter of 1 ± 01 Use differentials to estimate the maximum error in the Recall that the volume of a sphere with radius r is given by V = 4/3πr3
+   (b) Let k(x) = 1/√x. Use the limit definition of derivative to find k′(4).
+
+5. Consider the function f(x) = x2 −x −3 on the interval [−1, 4]. For what values of c in (−1, 4) is the conclusion of the Mean Value Theorem satisfied?
+
+6. Suppose f(x) is a twice differentiable function with f′(x) = −2(x + 1)2(x −5). 
+   (a) Find the intervals of increase and decrease of f(x).
+   (b) Find and classify all local 
+   (c) Find the intervals of concave up, concave down, and identify the position (x-value) of any inflection points.
+   (d) Graph a function f(x) that meets the above conditions.

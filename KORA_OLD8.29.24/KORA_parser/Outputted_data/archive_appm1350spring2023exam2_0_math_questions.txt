@@ -1,0 +1,24 @@
+Here are the math questions extracted from the text:
+
+1. Find the derivative of y = cos(x sin x).
+2. Find an equation for the line tangent to the function y =
+x2 + 1/2x3 + 3 at
+x = what value?
+3. Find dy/dx given that y3 + 5 = 2x3/2 -3 by applying the quotient rule to the left side of the equation.
+4. State the limit definition of the derivative for a function f(x).
+5. Let f(x) = 3x2. Use the limit definition to find f′(x).
+6. For the given f(x), find all values of c that satisfy the conclusion of the Mean Value Theorem on the interval [−1, 2].
+7. Let g(x) = 2 + 3/√x. Find the linearization of g(x) at x = what value?
+8. Use the linearization to approximate the value of g(7).
+9. Is the approximation an underestimate or overestimate?
+10. Timmy leaves home at 8 and walks west toward school at 3/2 m/s, Lassie heads south to visit the dog park at 2 m/s. After 8 seconds, how fast is the distance between them changing?
+11. Let h(x) = x2 - 4. Find the critical numbers of h(x). Use the First Derivative Test to classify each critical number as a local minimum, local maximum or none.
+12. The graph of derivative r′(x) is shown. Among the x-coordinates a, b, c, d, e, f, g, and h, find the coordinates that correspond to:
+- min r(x) at x =
+- min r′(x) at x =
+- min r′′(x) at x =
+- max r(x) at x =
+- max r′(x) at x =
+- max r′′(x) at x =
+- At what value(s) of x does the function r(x) have horizontal tangents?
+- On what interval(s) is the function r(x) concave up or down?

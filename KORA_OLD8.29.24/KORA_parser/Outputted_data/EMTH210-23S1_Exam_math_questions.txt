@@ -1,0 +1,37 @@
+Here are the extracted math questions from the provided text:
+
+1. Consider the following system of d/dt = + 2y + 3z, dy/dt = 2y + z, dz/dt = 3z. Write the system of ODEs in matrix form dy/dt = ?(1 mark)
+
+2. Given that B\[1 0 0] = \[1 0 0], B\[2 1 0] = 2\[2 1 0], and B\[5 2 2] = 3\[5 2 2], solve the system of?
+
+3. Consider the matrix A = [9 2 2 6]. Show that x1 = [2 1] and x2 = [-1 2] are eigenvectors of A and find their corresponding. Find a diagonal matrix D and an orthogonal matrix P such that A =?
+
+4. Using parts (i) and (ii), write the ellipse 92 + 4y + 6y2 = 5 in the form a2 + b2 = ? Make sure you define the relationship between the new coordinates and and the old coordinates and?
+
+5. Consider the integral ∫∫Ry dA, where R is the region defined by 0 ≤≤2, ≥y2 −? Draw and label a clear picture of the region R, and shade it with horizontal or vertical. Write the integral as an iterated integral (but do not evaluate it).
+
+6. Reverse the order of integration to find: ∫ from 2 to 0 ∫ from 4 to 2 e/ y dy d.
+
+7. Consider the shape defined by the inequalities 0 ≤≤1, ≤y ≤1, and 0 ≤z ≤? Find the z coordinate of the centroid of the shape, given that the volume is V = 1/.
+
+8. Consider a spherical rock of radius 1, with density ρ = 2 + r, where r is the distance from the centre of the. Use a triple integral in spherical polar coordinates to find the mass of the rock.
+
+9. Find the Laplace transform of ƒ(t) = 4 sinh(3t) + 2t.
+
+10. Find the inverse Laplace transform of G(s) = 3s −3 / s2 −2s + 10.
+
+11. Use Laplace transforms to solve d2y / dt2 + 9y = et, with initial conditions y(0) = 4 and y′(0) =?
+
+12. For function_ƒ(t)_, sketch the graph, write ƒ(t) in terms of Heaviside and find the Laplace transform.
+
+13. Determine the value of k in probability_ƒX,Y(, y)_, find the joint cumulative distribution function FX,Y for any (, y) ∈[0, 2] × [0, 1].
+
+14. Find ƒX(), the marginal density function for _. Are X and Y independent?
+
+15. Find P[X < 1, Y > 1/2].
+
+16. Find E(X) where (X, Y) has joint density function ƒX,Y(, y) = 3/4(2x + y2) if 0 < x < 1 and 0 < y < 1.
+
+17. Use the Delta Method to approximate E(Y) and Var(Y), given that Y = X.
+
+18. For independent and identically distributed X1, X2, ..., Xn with PDF ƒX(; θ), find the log-likelihood function for θ, derive the maximum likelihood estimate of θ, and show it as a maximum likelihood.

@@ -1,0 +1,48 @@
+1. Rewrite each of the following without the absolute value symbol:
+   a. |2π −6|
+   b. |√2 −2|
+
+2. Use the definition of the distance between two numbers, including absolute value symbol, to write down the distance between −7 and −4, then find the distance.
+
+3. Let x, y, and z be real numbers such that x < 2, y < 0, and 2 ≤z ≤4. Answer the following:
+   a. Is −z4y3 positive, negative, or cannot be determined? 
+   b. Is x7y23 positive, negative, or cannot be determined?
+   c. Is z −5 + y positive, negative, or cannot be determined?
+
+4. Add and simplify: 2/9/7 + 5/12 + 70
+
+5. Simplify: | −7 −3| + |2| 2| −4|
+
+6. Simplify:
+   a. (−5b3)27a−3a6
+   b. √32x2p2 √16
+   c. 2(x−2y3)3/8x−3y−1/3
+   d. Rewrite as a polynomial: √x −1 + 3 * √x −1 −3
+
+7. Find the domain of the expression (give your answer in interval notation): x2 −9/√x(x −3)
+
+8. Combine into a single fraction: 1/x2 −x −2 −3/x + 1
+
+9. Evaluate the expression: −1/2x2 −x−1 when x = −4
+
+10. Simplify:
+    a. 3x2 + 12/x2 −5x · x2 −3x −10/x2 + 4
+    b. Simplify the compound fraction: 3/x2 −1 * x/9/x2 −1
+    c. Factor by grouping: 9x3 −18x2 −4x + 8
+
+11. Is x = −2 a solution of the inequality x3 −2x < 2x?
+
+12. Solve each of the following if there are no solutions write NO SOLUTIONS:
+    a. −2x −4 = 1 + 4x
+    b. 3/x −2 = x/x2 −4
+    c. |2x −3| = 3
+
+13. Solve each of the following if there are no solutions write NO SOLUTIONS:
+    a. √8 −y + 2 = y −4
+    b. Solve for h: P = A + hdg
+
+14. Solve the following justify your answers by using a number line or sign chart if answers without full justification will not receive full express all answers in interval:
+    a. −3x + 1 < 6
+    b. x3 −3x2 ≥0
+
+15. Find all the solutions to the following equation, including the complex solutions (Hint: factoring will be important) z3 = 1.

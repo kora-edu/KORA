@@ -1,0 +1,14 @@
+1. Use the Quotient Rule to find f' (x) if f(x) = x^2 − 2 over 2x. Simplify your answer.
+2. If y = sin cot(x), find dy/dx. Simplify your answer.
+3. Suppose y is a function of x, use implicit differentiation to find y' if y cos(x) = x^2 + y.
+4. Find the equation of the tangent line to y = √x at the point (1, 1). Simplify your answer.
+5. Which of the choices below is equivalent to the limit lim x → 1 of (x^4 + x −2) over (x – 1)? 
+   Options: (A) 4x^3 −1 (B) 5 (C) 0 0 (D) 3 (E) None of these
+6. For what value(s) of x does the function f(x) = 2x^3 + 3x^2 −12x + 1 have a horizontal tangent?
+7. The position function of a particle is given by s(t) = t^3 −5t^2 −7t. 
+   i. Find the velocity of the particle as a function of time. 
+   ii. When is the acceleration equal to 0?
+8. If y = sec(x), find y''.
+9. For what values of a and b will the function f(x) = {x^2 −3x, if x < 2; ax^2 + b, if x ≥2} be differentiable at x = 2?
+10. If h(x) = sqrt(4 + 3f(x)) where f(1) = 7 and f' (1) = 4, then h' (1) is equal to which choice below? 
+    Options: (A) 5 (B) 25/2 (C) 10 (D) 6/5 (E) None of these

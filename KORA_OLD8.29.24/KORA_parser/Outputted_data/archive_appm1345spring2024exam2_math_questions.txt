@@ -1,0 +1,21 @@
+Here are the math questions extracted from the text:
+
+1. (25 pts) Parts (a) and (b) are (a) Find the average value fave of the function f(x) = 9 −x2 on the interval [0, 3], and find all values of c on [0, 3] for which f(c) = fave. (b) Evaluate the following derivatives:
+  - d/dx (integral from 0 to x of (1/(sqrt(1 + t2))) dt)
+  - d/dx (integral from sin(x) to cos(x) of (1/(t + 2)) dt)
+
+2. (20 pts) The graph below represents a particle’s velocity function v(t), and the corresponding position function for 0 ≤t ≤6 is s(t) = integral from 0 to t of v(u) du. 
+  - (a) Determine the particle’s position at time t = 0 and at time t = 6.
+  - (b) What is total distance traveled by the particle between t = 0 and t = 3?
+  - (c) When is the particle moving in the positive direction? Express your answer using an interval.
+  - (d) When is the particle’s acceleration positive? Express your answer using an interval.
+
+3. (27 pts) Parts (a) and (b) are 
+  - (a) Evaluate the following. Fully simplify your answers:
+    - integral from 0 to x of (sqrt(3x2 + 1)) dx
+    - integral from 0 to sin(3x1/3) of (x2/3) dx
+  - (b) Suppose g(x) is a continuous function such that integral from 1 to 7 of g(x) dx = 10. Find the value of integral from 0 to 2 of g(3x + 1) dx (Hint: Apply u-substitution.)
+
+4. (28 pts) Parts (a) and (b) are 
+  - (a) Consider the function h(x) = cos2 x on the interval I = [0, π/2]. Determine the numerical value of the Riemann sum L2 for h(x) on I using left endpoints and 2 equally-sized subintervals. Write an expression for the general Riemann sum Ln for h(x) on I using left endpoints and n equally- sized subintervals. Express your answer using sigma notation.
+  - (b) Suppose the following expression is a Riemann sum for a continuous function u(x) on the interval [−1, 2]: Rn = sum from i=1 to n of [(3i/n)^2 + 1] * (3/n). Find the numerical value of integral from -1 to 2 of u(x) dx by evaluating the appropriate limit of Rn. Do not use a Dominance of Powers argument when evaluating the limit. Fully simplify your answer.

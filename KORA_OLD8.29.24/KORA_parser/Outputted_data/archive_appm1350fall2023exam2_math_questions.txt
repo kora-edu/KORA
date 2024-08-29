@@ -1,0 +1,9 @@
+1. Find the derivative of h(x) = A sin(x)/x + tan(Bx).
+2. Consider s(x) = √x^2 + 1 · cos. Find the value of s′(π/2).
+3. Find the formula for the linearization of y = s(x) at a = π/2.
+4. Use your linearization from the previous question to approximate s(3/2).
+5. Consider the curve defined by 8x + 2xy + y^3 = ?. (a) Find y′ at the point (1, 1). (b) Find y′′ at the point (1, 1).
+6. Given f(x) = x^4/3 + 4x^1/3 + 4x^-2/3. (a) Determine the x-coordinate(s) for all critical number(s) of f. (b) Determine the interval(s) where f is increasing or decreasing. (c) Determine the x-coordinate(s) of all local maxima and minima of f.
+7. Consider g(x) = 3√4 -x. Use the definition of the derivative to show that g′(x) = -3/2√4 -x.
+8. Ralphie is riding his bicycle east away from an intersection at 12 kilometers per hour when he is 2 kilometers east of the intersection. Chip is also riding a bicycle, but he is heading south towards that same intersection at a speed of 17 kilometers per hour when he is 3 kilometers north of the intersection. What is the rate of change of the straight-line distance between Ralphie and Chip at that moment?
+9. Suppose that r(0) = 2 and r′(x) ≤6 for all values of x. How large can r(3) possibly be?

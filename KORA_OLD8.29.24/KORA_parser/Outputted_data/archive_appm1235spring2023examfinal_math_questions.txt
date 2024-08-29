@@ -1,0 +1,53 @@
+Here are the math questions and instructions extracted from the given text:
+
+1. Place the correct symbol, <, >, or, = in the space between each of the following pair of 2/7 , 8/28 , √3 , √2.
+
+2. Let a and b be real numbers such that a < 0 and b < 0. Determine whether the following expression is positive, negative, or zero: −4a^4b.
+
+3. True or False: √(x^2 + 4) = x + 2. If false, pick a value for x and show, for this value, that the left side does not equal the right side.
+
+4. Evaluate and simplify: -1/15 + 3/10 - 1/3 - 4^(-1/2) + √9.
+
+5. Simplify: -3x^-2/x^-3 + 2(1 -x)(x + 3).
+
+6. Subtract and simplify: (x + 1)/(x^2 + 4x + 4) - 4/(x^2 -2x).
+
+7. Simplify: √(r^8/(16r^2)^(1/4)).
+
+8. Simplify: 2/(x+1) - 1/(2x^2 -2x).
+
+9. Simplify the following: ln(1) - ln(e) + log(100) - log3(1/9).
+
+10. Simplify and write in a + bi form: (2 −i) + 4 + 2i −i^2.
+
+11. Factor the following: 8x^3 −1.
+
+12. Solve for x: 2x^3 −6x^2 = 36x.
+
+13. Solve for w: 3w −r = 2r −5rw.
+
+14. Solve for x: ln(x) −ln(2) = ln(1 −3x).
+
+15. Find the slope of the line through the two points P(2, -3) and Q(1, 5).
+
+16. Find the equation of the line that passes through the points P and Q.
+
+17. Find the equation of the line through the point R(0, 0) that is parallel to the line found in part (b).
+
+18. Find the domain of r(x) = ln(x + 2) and p(x) = x. Also find (p ◦r) (x) and the domain of (p ◦r) (x).
+
+19. For the rational function R(x) = (x^2 -4)/(x^2 + 2x) find the x and y-values of any hole(s), x-intercept(s), y-intercept(s), end behavior, any vertical asymptotes and sketch the graph of R(x).
+
+20. Write down a polynomial function, P(x), that has the same intercepts, behavior at intercepts (cross or bounce), and end behavior as the graph.
+
+21. Sketch the graph of the following: f(x) = √x + 5, h(x) = tan(x) (restricted domain -π/2 , π/2), q(x) = { -2x - 1 if x ≤ -1, 2 if -1 < x ≤ 0, e^(x-1) -1 if x > 0 }, k(x) = tan^−1(x).
+
+22. Find the exact value: cos(3π/4), sin(-2π/3), sin^-1(1/2), arctan(√3), sin^-1(sin(5π/6)), sin(π/12).
+
+23. Verify the identity: csc(θ) = cos^2(θ) csc(θ) + sin(θ).
+
+24. Find all solutions to the following equations: 2 cos(θ) sin(θ) - cos(θ) = 0, tan (4θ) = 1.
+
+25. To measure the height of the cloud cover at an airport, a worker shines a spotlight upward at an angle 75◦ from the horizontal. An observer 600m away measures the angle of elevation to the spot of light to be 45◦. Find the height of the cloud cover.
+
+26. For h(x) = 3 cos (2x), identify the amplitude, period, phase shift, sketch one cycle of the graph of h(x), and determine if h(x) is odd, even, or neither.

@@ -1,0 +1,31 @@
+Here are the math questions extracted from the text:
+
+1. (21 pts) The following are related to the deﬁnite integral A =
+
+   (a) Approximate the value of A using a Riemann sum with a regular partition of n = 4 subintervals and right endpoints (that is, determine the value of R4). Fully simplify your answer.
+
+   (b) Find an expression for A. Express your answer using sigma notation and fully simplify your answer.
+
+   (c) Determine the exact value of A by taking the appropriate limit of your result from part (b). Simplify your answer (No credit will be earned by using the Evaluation Theorem)
+
+2. (23 pts) Parts (a) and (b) are independent.
+
+   (a) Evaluate ∫ 4 -3 f(x)dx, where f is defined as f(x) = {2x + 4, -3 ≤ x ≤ 0, √ 16 − x2, 0 < x ≤ 4}. Fully simplify your answer. (Hint: Consider the relationship between deﬁnite integrals and antiderivatives).
+
+   (b) Let g be a continuous function on [−3, 3] with ∫ 0 -1 g(x)dx = 4 and ∫ 3 0 g(x)dx = 9. Find the value of ∫ -1 -3 g(x)dx in each of the following cases: g is an even function, g is an odd function.
+
+3. (24 pts) Parts (a) and (b) are independent.
+
+   (a) Suppose the velocity function of a car is v(t) = 50 + 2t3 miles per hour between t = 0 hours and t = 2 hours. Determine the car’s average velocity during that time. Fully simplify your answer and include the correct unit of measurement.
+
+   (b) Evaluate the following. Fully simplify your answers:
+      - d/dx ∫ 9 x √ 1 + t4 dt 
+      - d/dx ∫ x2 2x t sin t dt
+      
+4. (32 pts) Evaluate the following. Fully simplify your answers:
+
+   (a) ∫ sin x / cos4 x dx (Express your answer in terms of x)
+
+   (b) ∫ 2 0 9x2√ 2x3 + 1 dx
+
+   (c) ∫ x(x −3)1/5 dx (Express your answer in terms of x)

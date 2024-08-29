@@ -1,0 +1,15 @@
+Here are the math questions extracted from the provided text:
+
+1. For R(x) = x2 −16 / (2x2 −2x −24), (a) Find the location (x, y -coordinates) of any hole(s). If there are none state, (b) Find any horizontal or slant asymptote(s). If there are none state, (c) Find any vertical asymptote(s).
+2. Sketch the following graphs: (a) q(x) = −ex, (b) f(x) = log3(x + 1).
+3. Simplify: 2x (2x −2−x) −(2x).
+4. (a) Simplify (rewrite without logs): −log3(27) + log9(9 √2) + log5(1/√5)−eln(3), (b) Rewrite as a single logarithm without negative exponents: 3 ln(z^2) −4 ln(z) −2 3 ln(z).
+5. Solve the following equations for x, If there are no solutions write “no solutions”: (a) 10 = 4e−2x, (b) 7 = 23+2x.
+6. Solve the following equations for x, If there are no solutions write “no solutions”: (a) 35x+1 = 9x, (b) log(2x) = log(3x^2 −9)−log(3), (c) 5 = 2 log2((x −1)/2).
+7. The raccoon population in a certain Colorado town was 1000 in 2022, and the population is expected to double every 5 years, (a) Find an exponential model n(t) = n◦2t/a for the number of raccoons after t years, (b) What is the expected population size in 2032? (c) How many years until the population triples?
+8. Sketch each angle in standard position on the unit circle: (a) θ = 4π/3, (b) θ = −5π/4.
+9. (a) For an angle θ in standard position, suppose we know cos(θ) > 0 and sin(θ) < 0. What quadrant does the terminal side of θ lie? (b) Find an angle between 0 and 2π that is co-terminal with θ = 7π/2, (c) Find cos t in terms of sin t if the terminal point determined by t is in quadrant II.
+10. Answer the following for tan(θ) = 3: (a) Sketch a triangle that has acute angle θ, (b) Find cos θ, (c) Find sec θ.
+11. Find the exact value of each of the following: (a) sin (180◦), (b) cos(2π/3), (c) tan(−5π/6), (d) csc (240◦), (e) cos(7π/4).
+12. An irrigation system uses a straight sprinkler pipe r = 6 ft long that pivots around a central point as a radius, Because of an obstacle the pipe is allowed to pivot through θ = 260°. Find the area irrigated by this pipe.
+13. A 14-ft ladder leans against a building so that the angle between the ground and the ladder is 60°. How high does the ladder reach on the building?

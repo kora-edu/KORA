@@ -1,0 +1,22 @@
+Here are the math questions extracted from your text:
+
+1. (a) Find the limit as x approaches 0 for sec(x) / (4x cot 2x)
+   (b) Find the limit as x approaches infinity for sin^2(x) / x
+   (c) Find the limit as x approaches 1 for (x-1) / √(5-x^2)
+   
+2. (a) Given that csc θ=√5 and π/2 < θ < π, find the values of tan θ and cos(2θ).
+   (b) Find all values of x in the interval [0, π] that satisfy tan x sec x = 4 sin x
+   (c) If the straight-line distance between a peanut (on the ground) and a squirrel (in a tree) is 50 ft, and the angle     between the straight-line and the tree is π/6 radians, how far down the tree and across the ground must the squirrel travel to reach the peanut?
+
+3. (a) Find a formula for f(x).
+   (b) Sketch a graph of y = |f(x)| + x. Label the intercepts, if any.
+   (c) Using the precise definition of a limit to verify the value of lim x→5 f(x), find the corresponding values of ϵ and δ.
+   
+4. For g(x) = 2x^2 −12x + 16 / (x^2 −7x + 12):
+   (a) Find the domain of g(x).
+   (b) Find and classify all discontinuities of g(x).
+   (c) Find the horizontal asymptotes, if any.
+   
+5. For the piecewise function: f(x) = (b cos(πx), for x ≤1) and (3 -√2x -2, for x > 1), find the value of b such that lim x→1 f(x) exists.
+
+6. Show that the equation x −2 = sin x cos x has at least one real solution. Indicate the interval where a solution can be found.
