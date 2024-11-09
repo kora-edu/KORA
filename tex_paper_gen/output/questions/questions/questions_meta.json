@@ -1,0 +1,64 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "pdf_toc": [],
+    "pages": 12,
+    "ocr_stats": {
+        "ocr_pages": 11,
+        "ocr_failed": 0,
+        "ocr_success": 11,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 9,
+        "code": 0,
+        "table": 1,
+        "equations": {
+            "successful_ocr": 1,
+            "unsuccessful_ocr": 0,
+            "equations": 1
+        }
+    },
+    "computed_toc": [
+        {
+            "title": "91577  Apply the algebra of complex numbers",
+            "level": 1,
+            "page": 0
+        },
+        {
+            "title": "in solving problems",
+            "level": 1,
+            "page": 0
+        },
+        {
+            "title": "QUESTION ONE",
+            "level": 4,
+            "page": 1
+        },
+        {
+            "title": "QUESTION TWO",
+            "level": 2,
+            "page": 4
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 4
+        },
+        {
+            "title": "QUESTION THREE",
+            "level": 2,
+            "page": 7
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 7
+        },
+        {
+            "title": "",
+            "level": 2,
+            "page": 8
+        }
+    ]
+}
