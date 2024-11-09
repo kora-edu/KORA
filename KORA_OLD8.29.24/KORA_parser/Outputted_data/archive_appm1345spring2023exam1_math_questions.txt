@@ -1,6 +1,0 @@
-1. Find the most general form of u(x) such that u′(x) = sec² x + (2 −√x)
-2. Suppose the acceleration function of a particle is given by a(t) = 4 cos t −3 sin t + 5t, and the particle’s initial velocity and position are v(0) = 4 and s(0) = 5, Find the particle’s position function s(t).
-3. Let the function D(x) represent the vertical distance between the curve y = 1/x² and the line y = −x at a given value of x. What is the minimum possible value of D(x) on the interval (0, ∞)? Use the Second Derivative Test to confirm that the result is indeed a local minimum value of the function D(x).
-4. Suppose Newton’s Method is used to estimate the value of a root of y = p(x) = x³ −5x using an initial estimate of x0 = 1. Write the expression for Newton’s Method for the specified function p(x), determine the values of x1 and x2, and explain whether Newton’s Method would converge to a solution in this case.
-5. Let f(x) = x¹/³ −x⁴/³. Identify all critical numbers of f(x), the values of x for which f(x) is increasing and decreasing, the x-coordinate of each local maximum and minimum of f(x), and use the First Derivative Test to classify each.
-6. Let g(x) = 3x⁵ −5x³. For which values of x is g(x) concave up and for which values of x is g(x) concave down? Identify the x-coordinate of each inflection point of g(x).
